@@ -7,6 +7,7 @@ SAP ABAP repositories
 
 - [ABAP-EXPORTMASTERDATAPRIVATE](https://github.com/chain942/ABAP-EXPORTMASTERDATAPRIVATE)
 - [ABAP-EXPORTMASTERDATAPUBLIC](https://github.com/chain942/ABAP-EXPORTMASTERDATAPUBLIC)
+- [ABAP-ZTCA001](https://github.com/chain942/ABAP-ZTCA001) — Class for update Configuration
 
 ## CUSTOM
 
