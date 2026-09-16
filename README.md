@@ -5,6 +5,7 @@ SAP ABAP repositories
 
 ## ABAP
 
+- [ABAP-Exception-Class](https://github.com/chain942/ABAP-Exception-Class) — Exception Class
 - [ABAP-EXPORTMASTERDATAPRIVATE](https://github.com/chain942/ABAP-EXPORTMASTERDATAPRIVATE)
 - [ABAP-EXPORTMASTERDATAPUBLIC](https://github.com/chain942/ABAP-EXPORTMASTERDATAPUBLIC)
 - [ABAP-ZSE78](https://github.com/chain942/ABAP-ZSE78) — Upload Graphic
