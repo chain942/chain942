@@ -51,6 +51,7 @@ SAP ABAP repositories
 - [GROWFAST-YPR](https://github.com/chain942/GROWFAST-YPR)
 - [GROWFAST-ZGLR001](https://github.com/chain942/GROWFAST-ZGLR001)
 - [GROWFAST-ZIMF001](https://github.com/chain942/GROWFAST-ZIMF001)
+- [GROWFAST-ZPUF001](https://github.com/chain942/GROWFAST-ZPUF001) — Purchase Order
 
 ## NHSO
 
@@ -70,6 +71,10 @@ SAP ABAP repositories
 - [NHSO-ZAPR1008](https://github.com/chain942/NHSO-ZAPR1008)
 - [NHSO-ZAPR1011](https://github.com/chain942/NHSO-ZAPR1011)
 - [NHSO-ZAPR1014](https://github.com/chain942/NHSO-ZAPR1014)
+
+## RRP
+
+- [RRP-ZPUF001](https://github.com/chain942/RRP-ZPUF001) — Purchase Order Form
 
 ## SAP
 
