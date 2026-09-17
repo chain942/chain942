@@ -36,10 +36,6 @@ SAP ABAP repositories
 - [DEMO-TESTAPI](https://github.com/chain942/DEMO-TESTAPI)
 - [DEMO-TREE](https://github.com/chain942/DEMO-TREE)
 
-## ESB
-
-- [ESB-ZMM](https://github.com/chain942/ESB-ZMM)
-
 ## ETC
 
 - [ABAPMANAGE](https://github.com/chain942/ABAPMANAGE)
