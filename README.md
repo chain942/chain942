@@ -67,7 +67,7 @@ SAP ABAP repositories
 - [NHSO-ZAPI2012](https://github.com/chain942/NHSO-ZAPI2012)
 - [NHSO-ZAPI2013](https://github.com/chain942/NHSO-ZAPI2013)
 - [NHSO-ZAPR1004](https://github.com/chain942/NHSO-ZAPR1004)
-- [NHSO-ZAPR1006-](https://github.com/chain942/NHSO-ZAPR1006-)
+- [NHSO-ZAPR1006](https://github.com/chain942/NHSO-ZAPR1006)
 - [NHSO-ZAPR1007](https://github.com/chain942/NHSO-ZAPR1007)
 - [NHSO-ZAPR1008](https://github.com/chain942/NHSO-ZAPR1008)
 - [NHSO-ZAPR1011](https://github.com/chain942/NHSO-ZAPR1011)
