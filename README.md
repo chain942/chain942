@@ -40,7 +40,6 @@ SAP ABAP repositories
 
 - [ABAPMANAGE](https://github.com/chain942/ABAPMANAGE)
 - [demo001](https://github.com/chain942/demo001)
-- [-NHSO-ZAPF2006](https://github.com/chain942/-NHSO-ZAPF2006) — หนังสือชะลอการโอนเงินค่าบริการทางการแพทย์
 - [ProxyAPI](https://github.com/chain942/ProxyAPI)
 
 ## GROWFAST
@@ -62,6 +61,7 @@ SAP ABAP repositories
 - [NHSO-ZAPE2002](https://github.com/chain942/NHSO-ZAPE2002) — หนังสือขออนุมัติยกเลิกการจ่ายเงิน
 - [NHSO-ZAPE2010](https://github.com/chain942/NHSO-ZAPE2010) — Approve Cancelled Payment
 - [NHSO-ZAPF2002](https://github.com/chain942/NHSO-ZAPF2002) — Print Cancelled Payment Document
+- [NHSO-ZAPF2006](https://github.com/chain942/NHSO-ZAPF2006) — หนังสือชะลอการโอนเงินค่าบริการทางการแพทย์
 - [NHSO-ZAPI1001](https://github.com/chain942/NHSO-ZAPI1001)
 - [NHSO-ZAPI1002](https://github.com/chain942/NHSO-ZAPI1002)
 - [NHSO-ZAPI2012](https://github.com/chain942/NHSO-ZAPI2012)
