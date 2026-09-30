@@ -11,6 +11,10 @@ SAP ABAP repositories
 - [ABAP-ZSE78](https://github.com/chain942/ABAP-ZSE78) — Upload Graphic
 - [ABAP-ZTCA001](https://github.com/chain942/ABAP-ZTCA001) — Class for update Configuration
 
+## COMIC
+
+- [comic-site](https://github.com/chain942/comic-site)
+
 ## CUSTOM
 
 - [CUSTOM_FORM_TEMPLATE](https://github.com/chain942/CUSTOM_FORM_TEMPLATE)
@@ -40,6 +44,7 @@ SAP ABAP repositories
 
 - [ABAPMANAGE](https://github.com/chain942/ABAPMANAGE)
 - [demo001](https://github.com/chain942/demo001)
+- [Four](https://github.com/chain942/Four) — MG
 - [ProxyAPI](https://github.com/chain942/ProxyAPI)
 
 ## GROWFAST
