@@ -77,6 +77,7 @@ SAP ABAP repositories
 - [NHSO-ZAPR1008](https://github.com/chain942/NHSO-ZAPR1008)
 - [NHSO-ZAPR1011](https://github.com/chain942/NHSO-ZAPR1011)
 - [NHSO-ZAPR1014](https://github.com/chain942/NHSO-ZAPR1014)
+- [NHSO-ZARI2001](https://github.com/chain942/NHSO-ZARI2001) — Auto Posting KTB Direct Link/SMT
 
 ## RRP
 
