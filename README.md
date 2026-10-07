@@ -46,6 +46,7 @@ SAP ABAP repositories
 - [demo001](https://github.com/chain942/demo001)
 - [Four](https://github.com/chain942/Four) — MG
 - [ProxyAPI](https://github.com/chain942/ProxyAPI)
+- [thefourbesideme](https://github.com/chain942/thefourbesideme)
 
 ## GROWFAST
 
@@ -81,6 +82,7 @@ SAP ABAP repositories
 
 ## RRP
 
+- [RRP-ZARF006](https://github.com/chain942/RRP-ZARF006) — Receipt Park Form
 - [RRP-ZGLF001](https://github.com/chain942/RRP-ZGLF001) — Journal Voucher
 - [RRP-ZGLF002](https://github.com/chain942/RRP-ZGLF002) — Receipt Voucher
 - [RRP-ZGLF003](https://github.com/chain942/RRP-ZGLF003) — Payment Voucher
