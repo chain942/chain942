@@ -79,10 +79,12 @@ SAP ABAP repositories
 - [NHSO-ZAPR1011](https://github.com/chain942/NHSO-ZAPR1011)
 - [NHSO-ZAPR1014](https://github.com/chain942/NHSO-ZAPR1014)
 - [NHSO-ZARI2001](https://github.com/chain942/NHSO-ZARI2001) — Auto Posting KTB Direct Link/SMT
+- [NHSO-ZFME2003](https://github.com/chain942/NHSO-ZFME2003) — Function ตรวจสอบงบประมานคงเหลือ
 
 ## RRP
 
 - [RRP-ZARF003](https://github.com/chain942/RRP-ZARF003) — Billing Note Program
+- [RRP-ZARF004](https://github.com/chain942/RRP-ZARF004) — Billing Cancel - Reprint
 - [RRP-ZARF006](https://github.com/chain942/RRP-ZARF006) — Receipt Park Form
 - [RRP-ZGLF001](https://github.com/chain942/RRP-ZGLF001) — Journal Voucher
 - [RRP-ZGLF002](https://github.com/chain942/RRP-ZGLF002) — Receipt Voucher
